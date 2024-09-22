@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1,TVBS新聞臺
+#EXTINF:-1 group-title="新聞臺",TVBS新聞臺
 http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1,TVBS歡樂臺
+#EXTINF:-1 group-title="綜合臺",TVBS歡樂臺
 http://125.227.210.55:8187/VideoInput/play.ts
-#EXTINF:-1,緯來體育臺
+#EXTINF:-1 group-title="體育臺",緯來體育臺
 http://125.227.210.55:8155/VideoInput/play.ts
-#EXTINF:-1,緯來精彩
+#EXTINF:-1 group-title="綜合臺",緯來精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1,三立新聞
+#EXTINF:-1 group-title="新聞臺",三立新聞
 http://125.227.210.55:8162/VideoInput/play.ts
-#EXTINF:-1,三立臺灣臺
+#EXTINF:-1 group-title="綜合臺",三立臺灣臺
 http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1,三立綜合
+#EXTINF:-1 group-title="綜合臺",三立綜合
 https://z88.ubtvfans.com/live/rx1/315/8960776817856d56ff0c2c66a3b54cd3/index.m3u8
-#EXTINF:-1,八大第一
+#EXTINF:-1 group-title="綜合臺",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1,八大戲劇
+#EXTINF:-1 group-title="綜合臺",八大戲劇
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1,八大綜合
+#EXTINF:-1 group-title="綜合臺",八大綜合
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1,三立戲劇
+#EXTINF:-1 group-title="綜合臺",三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1,CINEMAX
 http://125.227.210.55:8151/VideoInput/play.ts
