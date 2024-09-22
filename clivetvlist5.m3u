@@ -21,47 +21,47 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 group-title="綜合臺",三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1,CINEMAX
+#EXTINF:-1 group-title="電影臺",CINEMAX
 http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:-1,CNBC
+#EXTINF:-1 group-title="新聞臺",CNBC
 http://125.227.210.55:8152/VideoInput/play.ts
-#EXTINF:-1,BBC new
+#EXTINF:-1 group-title="新聞臺",BBC new
 http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1,CNN new
+#EXTINF:-1 group-title="新聞臺",CNN new
 http://125.227.210.55:8166/VideoInput/play.ts
-#EXTINF:-1,TVBS HD
+#EXTINF:-1 group-title="綜合臺",TVBS HD
 http://125.227.210.55:8188/VideoInput/play.ts
-#EXTINF:-1,探索亞洲
+#EXTINF:-1 group-title="知性臺",探索亞洲
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1,動物星球
+#EXTINF:-1 group-title="知性臺",動物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="電影臺",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1,中華小當家
+#EXTINF:-1 group-title="單一節目",中華小當家
 http://61.221.215.25:8800/hls/40/index.m3u8
-#EXTINF:-1,AMC電影臺
+#EXTINF:-1 group-title="電影臺",AMC電影臺
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1,鳳凰資訊
+#EXTINF:-1 group-title="綜合臺",鳳凰資訊
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1,49號
+#EXTINF:-1 group-title="國外臺",49號
 http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1,Bloomberg彭博電視
+#EXTINF:-1, group-title="國外臺"Bloomberg彭博電視
 http://125.227.210.55:8161/VideoInput/play.ts
-#EXTINF:-1,💖TV5臺
+#EXTINF:-1 group-title="國外臺",💖TV5臺
 http://125.227.210.55:15533/VideoInput/play.ts
-#EXTINF:-1,💖YTN臺
+#EXTINF:-1 group-title="國外臺",💖YTN臺
 http://125.227.210.55:17478/VideoInput/play.ts
-#EXTINF:-1,💖NHK JAPAN臺
+#EXTINF:-1 group-title="國外臺",💖NHK JAPAN臺
 http://125.227.210.55:35802/VideoInput/play.ts
-#EXTINF:-1,💖HD臺🍒
+#EXTINF:-1 group-title="國外臺",💖HD臺🍒
 http://125.227.210.55:39004/VideoInput/play.ts
-#EXTINF:-1,💖DW臺
+#EXTINF:-1 group-title="國外臺",💖DW臺
 http://125.227.210.55:42534/VideoInput/play.ts
-#EXTINF:-1,💖KOREA臺
+#EXTINF:-1 group-title="國外臺",💖KOREA臺
 http://125.227.210.55:48553/VideoInput/play.ts
-#EXTINF:-1,💖🈲Mainu臺
+#EXTINF:-1 group-title="18禁🈲",🈲Mainu臺
 http://125.227.210.55:51359/VideoInput/play.ts
-#EXTINF:-1,🈲驚艷臺
+#EXTINF:- group-title="18禁🈲",🈲驚艷臺
 http://125.227.210.55:8156/VideoInput/play.ts
-#EXTINF:-1,🍌香蕉臺
+#EXTINF:-1 group-title="18禁🈲",🍌香蕉臺
 http://125.227.210.55:8159/VideoInput/play.ts
