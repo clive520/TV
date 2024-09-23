@@ -1,12 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="新聞臺",TVBS新聞臺
 http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="新聞臺",東森新聞
+https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
+#EXTINF:-1,  group-title="新聞臺"年代新聞
+https://z88.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
 #EXTINF:-1 group-title="綜合臺",TVBS歡樂臺
 http://125.227.210.55:8187/VideoInput/play.ts
 #EXTINF:-1 group-title="體育臺",緯來體育臺
 http://125.227.210.55:8155/VideoInput/play.ts
+#EXTINF:-1 group-title="體育臺",博斯無限
+https://z88.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
 #EXTINF:-1 group-title="綜合臺",緯來精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="綜合臺",民視
+https://z88.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
+#EXTINF:-1  group-title="綜合臺",靖天歡樂
+https://z88.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
 #EXTINF:-1 group-title="新聞臺",三立新聞
 http://125.227.210.55:8162/VideoInput/play.ts
 #EXTINF:-1 group-title="綜合臺",三立臺灣臺
