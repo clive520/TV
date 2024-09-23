@@ -3,7 +3,7 @@
 http://125.227.210.55:8186/VideoInput/play.ts
 #EXTINF:-1 group-title="新聞臺",東森新聞
 https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
-#EXTINF:-1,  group-title="新聞臺"年代新聞
+#EXTINF:-1,  group-title="新聞臺",年代新聞
 https://z88.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
 #EXTINF:-1 group-title="綜合臺",TVBS歡樂臺
 http://125.227.210.55:8187/VideoInput/play.ts
