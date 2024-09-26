@@ -1,13 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="新聞臺",TVBS新聞臺
 http://125.227.210.55:8186/VideoInput/play.ts
-
 #EXTINF:-1 group-title="綜合臺",TVBS歡樂臺
 http://125.227.210.55:8187/VideoInput/play.ts
 #EXTINF:-1 group-title="體育臺",緯來體育臺
 http://125.227.210.55:8155/VideoInput/play.ts
-#EXTINF:-1 group-title="體育臺",博斯無限
-https://z88.ubtvfans.com/live/rx3/381/d1324a06285110c0739ef2e6e205fbca/index.m3u8
 #EXTINF:-1 group-title="綜合臺",緯來精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 group-title="綜合臺",民視
@@ -68,10 +65,5 @@ http://125.227.210.55:39004/VideoInput/play.ts
 http://125.227.210.55:42534/VideoInput/play.ts
 #EXTINF:-1 group-title="國外臺",💖KOREA臺
 http://125.227.210.55:48553/VideoInput/play.ts
-#EXTINF:-1 group-title="18禁🈲",🈲Mainu臺
-http://125.227.210.55:51359/VideoInput/play.ts
-#EXTINF:- group-title="18禁🈲",🈲驚艷臺
-http://125.227.210.55:8156/VideoInput/play.ts
-#EXTINF:-1 group-title="18禁🈲",🍌香蕉臺
-http://125.227.210.55:8159/VideoInput/play.ts
+
 
